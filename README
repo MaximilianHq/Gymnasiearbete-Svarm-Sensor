@@ -1,0 +1,3 @@
+main.py initializes the code and records a new sample. 
+The peak frequency is then stored by date togeather with 
+a txt containing time : peak frequency for every sample.
