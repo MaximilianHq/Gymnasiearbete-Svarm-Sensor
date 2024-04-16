@@ -2,5 +2,5 @@ main.py initializes the code and records a new sample.
 The peak frequency is then stored by date togeather with 
 a txt containing time : peak frequency for every sample.
 
-to plot the frequency curves, simplu run plot.py and insert
+to plot the frequency curves, simply run plot.py and insert
 the file path of the wav file.
